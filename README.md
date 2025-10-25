@@ -1,7 +1,7 @@
 # pinjambuku
 sistem data buku untuk perpustakaan sekolah
 
-berawal dari pemikiran sederhana
+berawal dari pemikiran sederhana, 
 buku perpustakaan yang terkadang sering hilang karena lupa
 
 
