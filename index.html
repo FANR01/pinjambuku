@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📚 Sistem Peminjaman Buku</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-left">
+      <h1>SMA WAHAS</h1>
+      <p>📚 Sistem Peminjaman Buku</p>
+    </div>
+    <div class="header-right">
+      <img src="element/logo.png" alt="Logo SMA WAHAS" class="school-logo">
+    </div>
+  </header>
+
+  <main>
+    <section class="form-section">
+      <h2>Tambah Buku</h2>
+        <form id="bookForm">
+          <input type="text" id="title" placeholder="Judul Buku" required>
+          <input type="text" id="author" placeholder="Penulis" required>
+          <input type="number" id="year" placeholder="Tahun Terbit" required>
+          <input type="number" id="stock" placeholder="Stok Buku" required>
+          <button type="submit">➕ Tambah Buku</button>
+        </form>
+    </section>
+
+
+    <section class="table-section">
+      <h2>📖 Daftar Buku</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Judul</th>
+            <th>Penulis</th>
+            <th>Tahun</th>
+            <th>Stok</th>
+            <th>Aksi</th>
+          </tr>
+        </thead>
+        <tbody id="bookTable"></tbody>
+      </table>
+    </section>
+
+    <section class="table-section">
+      <h2>🕒 Riwayat Peminjaman</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Judul Buku</th>
+            <th>Peminjam</th>
+            <th>Tanggal Pinjam</th>
+            <th>Batas Waktu</th>
+            <th>Tanggal Kembali</th>
+            <th>Status</th>
+            <th>Aksi</th>
+          </tr>
+        </thead>
+        <tbody id="loanTable"></tbody>
+      </table>
+    </section>
+  </main>
+
+<footer class="footer-biru">
+  <div class="footer-left">
+    <a href="https://www.instagram.com/smawahasmodel">
+      <img src="element/instagram.svg" alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/smawahasmodel.sch.id/">
+      <img src="element/facebook.svg" alt="Facebook">
+    </a>
+    <a href="https://www.youtube.com/@OfficialSMAWahasModel">
+      <img src="element/youtube.svg" alt="YouTube">
+    </a>
+  </div>
+
+  <div class="footer-center">
+    <p>© 2025 Sistem Peminjaman Buku – <b>Dibuat oleh Fajar</b></p>
+  </div>
+
+  <div class="footer-right">
+    <a href="https://instagram.com/aditfajarrr" id="support-link">Support</a>
+  </div>
+</footer>
+
+
+
+  <script src="script.js"></script>
+
+
+</body>
+</html>
