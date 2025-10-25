@@ -32,10 +32,10 @@ function tampilkanBuku() {
 
 bookForm.addEventListener("submit", (e) => {
   e.preventDefault();
-  const judul = document.getElementById("title").value;
-  const penulis = document.getElementById("author").value;
-  const tahun = document.getElementById("year").value;
-  const stok = document.getElementById("stock").value;
+  const judul = document.getElementById("judul").value;
+  const penulis = document.getElementById("penulis").value;
+  const tahun = document.getElementById("tahun").value;
+  const stok = document.getElementById("stok").value;
 
   buku.push({ judul, penulis, tahun, stok: parseInt(stok) });
   simpanData();
