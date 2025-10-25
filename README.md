@@ -5,13 +5,13 @@ berawal dari pemikiran sederhana,
 buku perpustakaan yang terkadang sering hilang karena lupa
 
 
-untuk versi ini memang sengaja dibuat menggunakan database yang tersimpan di browser
+untuk versi ini memang sengaja dibuat menggunakan database yang tersimpan di browser, 
 bisa di lihat di script.js pada fungsi  function simpanData()
 
 
 tampilan sederhana namun responsive
 (meskipun awalnya bingung karena cukup aneh jika di buka di perangkat tertentu)
-penambahan di baris akhir style.css supaya responsive
+penambahan di baris akhir style.css supaya responsive, 
 tampilan tetap enak di lihat di mobile maupun desktop
 
 
