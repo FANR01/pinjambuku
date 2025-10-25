@@ -1,4 +1,7 @@
 # pinjambuku
+
+source code
+
 sistem data buku untuk perpustakaan sekolah
 
 berawal dari pemikiran sederhana, 
@@ -40,3 +43,5 @@ Sumberwudi Karanggeneng Lamongan
 beberapa debugging di bantu oleh @AI
 
 website ini hanya untuk tugas, tapi mungkin suatu saat nanti bisa di kembangkan lagi dan di gunakan dengan layak
+
+website ini bisa dijalankan di https://fanr01.github.io/pinjambuku/
