@@ -19,11 +19,12 @@ element/   berisi gambar dan item seperti logo
 
 
 dibuat oleh FAJAR ADITYA NUR RASYID
-    instagram = instagram.com/@aditfajarrr
-    github = github.com/FANR01
-    telegram = t.me/FANR01
+https://instagram.com/@aditfajarrr
+https://github.com/FANR01
+https://t.me/FANR01
+
 disupport oleh ACHMAD ILHAM KIROMUL FATIHIN
-    instagram = instagram.com/il_haa_mss
+https://instagram.com/il_haa_mss
 
 Dari Sekolah SMA WAHID HASYIM MODEL
 Sumberwudi Karanggeneng Lamongan
